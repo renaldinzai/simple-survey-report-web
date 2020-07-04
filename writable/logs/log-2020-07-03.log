@@ -1,0 +1,853 @@
+CRITICAL - 2020-07-03 03:48:24 --> Function name must be a string
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('staff/index', Array, true)
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(15): view('staff/index', Array)
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->index()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 03:48:29 --> Function name must be a string
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('staff/index', Array, true)
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(15): view('staff/index', Array)
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->index()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 03:49:02 --> Function name must be a string
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('staff/index', Array, true)
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(15): view('staff/index', Array)
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->index()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 03:49:19 --> Function name must be a string
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('staff/index', Array, true)
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(15): view('staff/index', Array)
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->index()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 03:49:41 --> Function name must be a string
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('staff/index', Array, true)
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(15): view('staff/index', Array)
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->index()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 03:55:51 --> Function name must be a string
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('staff/index', Array, true)
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(15): view('staff/index', Array)
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->index()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 03:55:51 --> Function name must be a string
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('staff/index', Array, true)
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(15): view('staff/index', Array)
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->index()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 03:55:53 --> Function name must be a string
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('staff/index', Array, true)
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(15): view('staff/index', Array)
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->index()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 03:56:15 --> Function name must be a string
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('staff/index', Array, true)
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(15): view('staff/index', Array)
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->index()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 03:56:20 --> Function name must be a string
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('staff/index', Array, true)
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(15): view('staff/index', Array)
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->index()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 03:56:26 --> Function name must be a string
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('staff/index', Array, true)
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(15): view('staff/index', Array)
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->index()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 03:57:42 --> Function name must be a string
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('staff/index', Array, true)
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(15): view('staff/index', Array)
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->index()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 04:16:36 --> Undefined variable: csrf_fields
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\Staff\index.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('staff/index', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(23): view('staff/index', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->index()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 04:16:41 --> Undefined variable: csrf_field
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\Staff\index.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('staff/index', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(23): view('staff/index', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->index()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 05:39:54 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-03 05:40:22 --> syntax error, unexpected '$db' (T_VARIABLE)
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Staf...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Staf...')
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(14): spl_autoload_call('App\\Models\\Staf...')
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(886): App\Controllers\Staff\Users->__construct()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(395): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 05:40:42 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-03 05:40:57 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-03 05:41:43 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-03 05:43:37 --> Call to a member function getWhere() on null
+#0 C:\xampp\htdocs\web-survey-harga\app\Models\Staff\Users_model.php(15): App\Models\Staff\Users_model->checkUsername('admin')
+#1 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(40): App\Models\Staff\Users_model->checkLogin('admin', '123')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->login()
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-03 05:56:30 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-03 06:02:17 --> Call to a member function getWhere() on null
+#0 C:\xampp\htdocs\web-survey-harga\app\Models\Staff\Users_model.php(15): App\Models\Staff\Users_model->checkUsername('admin')
+#1 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(40): App\Models\Staff\Users_model->checkLogin('admin', '123')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->login()
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-03 06:09:13 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-03 06:18:07 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-03 06:18:13 --> Call to undefined method App\Models\Staff\Users_model::getRowArray
+#0 C:\xampp\htdocs\web-survey-harga\app\Models\Staff\Users_model.php(30): CodeIgniter\Model->__call('getRowArray', Array)
+#1 C:\xampp\htdocs\web-survey-harga\app\Models\Staff\Users_model.php(15): App\Models\Staff\Users_model->checkUsername('admin')
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(40): App\Models\Staff\Users_model->checkLogin('admin', '123')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->login()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 06:19:10 --> Object of class App\Models\Staff\Users_model could not be converted to int
+#0 C:\xampp\htdocs\web-survey-harga\app\Models\Staff\Users_model.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\web-survey-harga\app\Models\Staff\Users_model.php(15): App\Models\Staff\Users_model->checkUsername('admin')
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(40): App\Models\Staff\Users_model->checkLogin('admin', '123')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->login()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 06:19:29 --> Cannot use object of type App\Models\Staff\Users_model as array
+#0 C:\xampp\htdocs\web-survey-harga\app\Models\Staff\Users_model.php(15): App\Models\Staff\Users_model->checkUsername('admin')
+#1 C:\xampp\htdocs\web-survey-harga\app\Controllers\Staff\Users.php(40): App\Models\Staff\Users_model->checkLogin('admin', '123')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Staff\Users->login()
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Staff\Users))
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-03 06:41:28 --> Invalid file: staff/index.php
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('staff/index.php')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('staff/index', Array, true)
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(22): view('staff/index', Array)
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 06:53:26 --> Call to undefined method CodeIgniter\Validation\Validation::listError()
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/users', Array, true)
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(24): view('/users', Array)
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->index()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 07:12:39 --> Undefined variable: session
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\users.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/users', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(23): view('/users', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->index()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 07:16:02 --> Undefined variable: session
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\users.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/users', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(23): view('/users', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->index()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 07:17:09 --> Undefined variable: session
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\users.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/users', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(23): view('/users', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->index()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 07:18:30 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\users.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/users', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(23): view('/users', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->index()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 07:18:45 --> Undefined variable: session
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\users.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/users', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(23): view('/users', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->index()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 07:23:03 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\users.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/users', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(23): view('/users', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->index()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 07:23:15 --> Undefined variable: session
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\users.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/users', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(23): view('/users', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->index()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 07:25:27 --> Undefined property: App\Controllers\Users::$session
+#0 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(58): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->login()
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-03 07:25:42 --> Undefined variable: session
+#0 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(58): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->login()
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-03 07:25:56 --> Undefined variable: session
+#0 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(58): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->login()
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-03 07:26:09 --> Undefined variable: session
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\users.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/users', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(23): view('/users', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->index()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 09:03:53 --> Undefined index: password
+#0 C:\xampp\htdocs\web-survey-harga\app\Models\Users_model.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(52): App\Models\Users_model->checkLogin('admin', 'admin')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->login()
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-03 09:05:03 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(52): App\Models\Users_model->checkLogin('admin', 'admin')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->login()
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-03 09:05:30 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(52): App\Models\Users_model->checkLogin('admin', 'admin')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->login()
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-03 09:05:39 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(52): App\Models\Users_model->checkLogin('admin', 'admin')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->login()
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-03 09:47:29 --> Undefined index: role
+#0 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->login()
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-03 09:49:45 --> Undefined index: role
+#0 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->login()
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-03 09:56:40 --> This application must be run on the command line.
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->login()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-03 09:56:40 --> This application must be run on the command line.
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->login()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-03 10:14:08 --> Undefined property: App\Controllers\Admin\Admin::$session
+#0 C:\xampp\htdocs\web-survey-harga\app\Controllers\Admin\Admin.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(886): App\Controllers\Admin\Admin->__construct()
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(395): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-03 12:03:02 --> Undefined property: App\Controllers\Admin\Admin::$surveyorModel
+#0 C:\xampp\htdocs\web-survey-harga\app\Controllers\Admin\Admin.php(58): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin\Admin->createCommodity()
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-03 12:31:05 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 12:41:36 --> Invalid file: surveyor/detail.php
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('surveyor/detail...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('surveyor/detail', Array, true)
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Surveyor\Surveyor.php(47): view('surveyor/detail', Array)
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Surveyor\Surveyor->detail('beras')
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Surveyor\Surveyor))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 12:47:01 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\surveyor\detail.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('surveyor/detail', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Surveyor\Surveyor.php(47): view('surveyor/detail', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Surveyor\Surveyor->detail('ayam-goreng')
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Surveyor\Surveyor))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 12:47:35 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\surveyor\detail.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('surveyor/detail', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Surveyor\Surveyor.php(47): view('surveyor/detail', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Surveyor\Surveyor->detail('ayam-goreng')
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Surveyor\Surveyor))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 13:08:27 --> Undefined variable: validation
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\admin\commodity.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/admin/commodit...', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Admin\Commodity.php(27): view('/admin/commodit...', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin\Commodity->index()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Commodity))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 13:45:09 --> Undefined variable: validation
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\surveyor\insertPrice.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('surveyor/insert...', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(66): view('surveyor/insert...', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->insertPrice()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 13:51:40 --> Too few arguments to function App\Controllers\Users\Surveyor::insertPrice(), 0 passed in C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->insertPrice()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-03 14:19:25 --> min_length(10) is not a valid rule.
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('min_length(10)')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('market_address', 'market_address', 'Jalan Borobudur...', Array, Array)
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Admin.php(115): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Admin->createMarket()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Admin))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 22:19:07 --> Unknown column 'created_at' in 'field list'
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `co...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `co...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `co...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2234): CodeIgniter\Database\BaseConnection->query('INSERT INTO `co...', Array, false)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(729): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(557): CodeIgniter\Model->insert(Array, false)
+#6 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(130): CodeIgniter\Model->save(Array)
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->processInsertPrice('Beras')
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#9 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2020-07-03 22:24:36 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->processInsertPrice('Minyak%20Goreng')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-03 22:31:18 --> Undefined variable: commodities
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\surveyor\detail.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('surveyor/detail', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(62): view('surveyor/detail', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('minyak-goreng')
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 22:45:29 --> Undefined property: App\Controllers\Users\Surveyor::$marketCommodity
+#0 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 60, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('minyak-goreng')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-03 22:45:30 --> Undefined property: App\Controllers\Users\Surveyor::$marketCommodity
+#0 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 60, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('minyak-goreng')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-03 22:45:52 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ON commodity.id = commodity_markets.id_commodity, 
+            market.id = c...' at line 4
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(14): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(60): App\Models\Users\MarketCommodity_model->getMarketCommodity()
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('minyak-goreng')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:03:29 --> Undefined index: market_name
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\surveyor\detail.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('surveyor/detail', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(63): view('surveyor/detail', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('minyak-goreng')
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 23:06:51 --> Unknown column 'minyak' in 'where clause'
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(28): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(60): App\Models\Users\MarketCommodity_model->getMarketCommodity('minyak-goreng')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('minyak-goreng')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:07:19 --> Unknown column 'beras' in 'where clause'
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(28): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(60): App\Models\Users\MarketCommodity_model->getMarketCommodity('beras')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:08:16 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= beras' at line 5
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(28): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(60): App\Models\Users\MarketCommodity_model->getMarketCommodity('beras')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:08:20 --> Unknown column 'beras' in 'where clause'
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(28): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(60): App\Models\Users\MarketCommodity_model->getMarketCommodity('beras')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:09:02 --> Unknown column 'beras' in 'where clause'
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(27): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(60): App\Models\Users\MarketCommodity_model->getMarketCommodity('beras')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:09:11 --> Column 'slug' in where clause is ambiguous
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(28): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(60): App\Models\Users\MarketCommodity_model->getMarketCommodity('beras')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:09:18 --> Unknown column 'beras' in 'where clause'
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(28): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(60): App\Models\Users\MarketCommodity_model->getMarketCommodity('beras')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:13:25 --> Array to string conversion
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\surveyor\detail.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('surveyor/detail', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(63): view('surveyor/detail', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 23:13:33 --> Call to a member function getResultArray() on array
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('surveyor/detail', Array, true)
+#2 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(63): view('surveyor/detail', Array)
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-07-03 23:17:04 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 5
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(23): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(60): App\Models\Users\MarketCommodity_model->getMarketCommodity('beras')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:24:08 --> syntax error, unexpected ')'
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-03 23:24:19 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE surveyor = 'surveyor'' at line 6
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...', Array)
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(31): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(62): App\Models\Users\MarketCommodity_model->getMarketCommodity('beras', 'surveyor')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:25:23 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE surveyor = 'surveyor'' at line 6
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...', Array)
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(30): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(62): App\Models\Users\MarketCommodity_model->getMarketCommodity('beras', 'surveyor')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:25:41 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE surveyor = 'surveyor'' at line 6
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...', Array)
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(30): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(62): App\Models\Users\MarketCommodity_model->getMarketCommodity('beras', 'surveyor')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:25:43 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE surveyor = 'surveyor'' at line 6
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...', Array)
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(30): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(62): App\Models\Users\MarketCommodity_model->getMarketCommodity('beras', 'surveyor')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:25:52 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE surveyor = 'sur'' at line 6
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...', Array)
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(30): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(62): App\Models\Users\MarketCommodity_model->getMarketCommodity('beras', 'surveyor')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:26:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE surveyor = 'surveyor'' at line 6
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...', Array)
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(31): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(62): App\Models\Users\MarketCommodity_model->getMarketCommodity('beras', 'surveyor')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:26:55 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE surveyor = 'surveyor'' at line 6
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...', Array)
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(31): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(62): App\Models\Users\MarketCommodity_model->getMarketCommodity('beras', 'surveyor')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:26:58 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE surveyor = 'surveyor'' at line 6
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...', Array)
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(31): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(62): App\Models\Users\MarketCommodity_model->getMarketCommodity('beras', 'surveyor')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:28:10 --> Unknown column 'date' in 'field list'
+#0 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('\r\n            S...')
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\BaseConnection->query('\r\n            S...', Array)
+#4 C:\xampp\htdocs\web-survey-harga\app\Models\Users\MarketCommodity_model.php(30): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Surveyor.php(62): App\Models\Users\MarketCommodity_model->getMarketCommodity('beras', 'surveyor')
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Surveyor->detail('beras')
+#7 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Surveyor))
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-03 23:39:52 --> Undefined index: surveyor
+#0 C:\xampp\htdocs\web-survey-harga\app\Views\admin\commodity.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 52, Array)
+#1 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/admin/commodit...', Array, true)
+#3 C:\xampp\htdocs\web-survey-harga\app\Controllers\Users\Admin.php(49): view('/admin/commodit...', Array)
+#4 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users\Admin->commodity()
+#5 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users\Admin))
+#6 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\web-survey-harga\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\web-survey-harga\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
